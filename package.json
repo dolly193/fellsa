@@ -1,0 +1,19 @@
+{
+  "name": "chat-system",
+  "version": "1.0.0",
+  "description": "A WebSocket chat application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "websocket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
